@@ -1,4 +1,4 @@
-# Hosting-A-Resume-page-in-S3
+# Hosting-A-Resume-Page-in-S3
 This project demonstrates how to host a static resume page on Amazon S3. It can be a simple and cost effective way to showcase a portfolio or resume online.
 
 Prerequisites:
